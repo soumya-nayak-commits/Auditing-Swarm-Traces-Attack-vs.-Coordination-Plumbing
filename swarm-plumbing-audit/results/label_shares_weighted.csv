@@ -1,0 +1,8 @@
+label,share,ci_low,ci_high
+chunk_carrier,0.547,0.443,0.626
+hf_access,0.219,0.149,0.302
+other_behavior,0.106,0.039,0.186
+delivery_stub,0.053,0.001,0.131
+recon,0.036,0.004,0.080
+credential_access,0.022,0.000,0.055
+opaque,0.015,0.004,0.037

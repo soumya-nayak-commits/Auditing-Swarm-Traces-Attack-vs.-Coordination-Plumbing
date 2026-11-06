@@ -1,0 +1,5 @@
+stratum,population,sampled,evaluable_n,evaluable_correct
+plumbing,59259,25,25,23
+opaque,408,5,5,5
+beh_big,2336,40,40,37
+beh_tail,29034,30,29,28

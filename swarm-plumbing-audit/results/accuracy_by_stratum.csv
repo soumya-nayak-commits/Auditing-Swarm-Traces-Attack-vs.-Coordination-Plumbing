@@ -1,0 +1,5 @@
+stratum,n,accuracy,err_low,err_high
+plumbing,25,0.92,0.12,0.08
+opaque,5,1.0,0.0,0.0
+beh_big,40,0.925,0.1,0.075
+beh_tail,29,0.966,0.069,0.034

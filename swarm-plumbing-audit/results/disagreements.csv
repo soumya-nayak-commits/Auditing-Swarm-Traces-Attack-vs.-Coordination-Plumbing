@@ -1,0 +1,7 @@
+row_id,stratum,rule_pred,label,pattern
+R0028511,beh_big,behavior,delivery_stub,location.href redirect missed
+R0045478,beh_big,behavior,delivery_stub,location.href redirect missed
+R0032449,beh_big,behavior,chunk_carrier,shortener-code list missed
+R0052078,beh_tail,behavior,opaque,binary placeholder missed
+R0035846,plumbing,plumbing,other_behavior,false alarm
+R0015838,plumbing,plumbing,hf_access,false alarm
